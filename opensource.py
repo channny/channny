@@ -23,7 +23,7 @@ def RSP() :
 			com_count += 1
 		else :
 			user_count += 1
-					
+	print(user_count : com_count)					
 	if(user_count>com_count) :
 		print("최종적으로 사용자가 승리하였습니다 !")
 	else :
