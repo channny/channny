@@ -1,5 +1,6 @@
 # git/github 입문
 ## git 입문했어요!
+<<<<<<< HEAD
 <img src="https://octodex.github.com/images/welcometocat.png" height="300">
 
 
